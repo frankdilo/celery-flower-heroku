@@ -5,7 +5,7 @@
   "website": "https://github.com/wli/celery-flower-heroku",
   "repository": "https://github.com/wli/celery-flower-heroku",
   "env": {
-    "BROKER_URL": {
+    "FLOWER_BROKER_URL": {
       "description": "Default broker URL.",
       "value": ""
     },
